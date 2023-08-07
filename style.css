@@ -1,0 +1,32 @@
+.input {
+    margin-bottom: 20px;
+}
+
+.input input {
+    font-size: 30px;
+}
+
+.line {
+    height: 3px;
+    background-color: black;
+    width: 1500px;
+    margin: 30px auto;
+}
+
+.btn {
+    margin: 30px auto;
+    display: block;
+    font-size: 30px;
+}
+
+canvas {
+    background-color: grey;
+    /* width: 100vw;
+    height: 100vh; */
+}
+
+.container {
+    display: flex;
+    align-items: flex-start;
+    gap: 70px;
+}
